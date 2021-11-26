@@ -1,7 +1,7 @@
-from APIHandler import APIHandler, APIUrl
+from .APIHandler import APIHandler, APIUrl
 
 
-class PyBetween:
+class Between:
 
     # User
     class User:
