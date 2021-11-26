@@ -2,8 +2,8 @@
 Wrapper for Between - 비트윈을 위한 파이썬 라이브러리
 
 # Legal Disclaimer
-오직 교육적 목적으로만 사용할수 있으며, 비트윈은 VCNC의 자산입니다. 악의적 공격에 이용할시 처벌 받을수 있습니다.
-Only use for educational purposes, Between is tradmark for VCNC.
+오직 교육적 목적으로만 사용할수 있으며, 비트윈은 VCNC의 자산입니다. 악의적 공격에 이용할시 처벌 받을수 있습니다. 사용에 따른 책임은 사용자가 집니다.
+Only use for educational purposes, Between is tradmark for VCNC. User takes responsibility for usage.
 
 ## Install
 ```
