@@ -12,12 +12,12 @@ pip install PyBetween
 ### Import
 
 ```python
-> from PyBetween import PyBetween
+> from PyBetween import *
 ```
 
 ### Login
 ```python
-> between = PyBetween('YOUR_ID', 'YOUR_PASSWORD')
+> between = Between('YOUR_ID', 'YOUR_PASSWORD')
 > between.login()
 True
 ```
