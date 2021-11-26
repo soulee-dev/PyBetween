@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='PyBetween',
-    version='1.0.2',
+    version='1.0.3',
     license='MIT',
     author='lill74',
     author_email='a010393223@gmail.com',
